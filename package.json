@@ -1,0 +1,17 @@
+{
+  "name": "bmealhouse",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Brent Mealhouse <bmealhouse@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmealhouse/npm-bmealhouse.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bmealhouse/npm-bmealhouse/issues"
+  },
+  "homepage": "https://github.com/bmealhouse/npm-bmealhouse#readme",
+  "description": "me"
+}
